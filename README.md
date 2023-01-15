@@ -4,6 +4,8 @@
 
 ### Projects to work on :
 - [ ] Web Scrapping
+  - [x] BeautifulSoup
+    - [x] Bookstoscrape
 - [ ] MySQL with Python
 - [ ] Regression Problems
 - [ ] Classification Problems 
