@@ -6,7 +6,8 @@
 - [ ] Web Scrapping
   - [x] BeautifulSoup
     - [x] Bookstoscrape
-- [ ] MySQL with Python
+- [x] MySQL with Python
+  - [x] Bookstoscrape
 - [ ] Regression Problems
 - [ ] Classification Problems 
 - [ ] Clustering Problems
